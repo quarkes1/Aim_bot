@@ -13,3 +13,4 @@
 - MIN_AREA / MAX_AREA	过滤过小 / 过大的干扰区域
 - LOCK_DURATION	目标锁定时长，防止频繁切换
 - DIST_TOLERANCE	等距目标判定容错
+- SEARCH_SPEED    在没有识别到指定颜色时随机移动视角搜索，默认关闭
