@@ -234,4 +234,4 @@ while True:
             r_dy = random.randint(-SEARCH_SPEED // 2, SEARCH_SPEED // 2)
             mouse_move_relative(r_dx, r_dy)
 
-    time.sleep(0.0001)
+    time.sleep(0.01)
